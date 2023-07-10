@@ -39,22 +39,26 @@ generated with
 ## Citations and more information
 
 If you use CPpackage in your research, you can cite the following papers:
+1. Sanders, K. M.; Van Buskirk, J. S.; Hilleke, K. P.; Fredrickson, D. C.
+Self-Consistent Chemical Pressure Analysis: Resolving Atomic Packing Effects
+through the Iterative Partitioning of Space and Energy. *J. Chem. Theory. Comput.*,
+ASAP, DOI: https://doi.org/10.1021/acs.jctc.3c00368.
 
-1. Lu, E.; Van Buskirk, J. S.; Cheng, J.; Fredrickson, D. C. Tutorial on 
+3. Lu, E.; Van Buskirk, J. S.; Cheng, J.; Fredrickson, D. C. Tutorial on 
 Chemical Pressure Analysis: How Atomic Packing Drives Laves/Zintl Intergrowth in
 K3Au5Tl. *Crystals* **2021**, *11* (8), 906. 
 https://doi.org/10.3390/cryst11080906.
 
-2. Berns, V. M.; Engelkemier, J.; Guo, Y.; Kilduff, B. J.; Fredrickson, D. C.
+4. Berns, V. M.; Engelkemier, J.; Guo, Y.; Kilduff, B. J.; Fredrickson, D. C.
 Progress in Visualizing Atomic Size Effects with DFT-Chemical Pressure
 Analysis: From Isolated Atoms to Trends in AB5 Intermetallics. *J. Chem. Theory
 Comput.* **2014**, *10* (8), 3380–3392. https://doi.org/10.1021/ct500246b.
 
-3. Engelkemier, J.; Berns, V. M.; Fredrickson, D. C. First-Principles 
+5. Engelkemier, J.; Berns, V. M.; Fredrickson, D. C. First-Principles 
 Elucidation of Atomic Size Effects Using DFT-Chemical Pressure Analysis: 
 Origins of Ca36Sn23’s Long-Period Superstructure. *J. Chem. Theory Comput.* 
 **2013**, *9* (7), 3170–3180. https://doi.org/10.1021/ct400274f.
 
-4. Fredrickson, D. C. DFT-Chemical Pressure Analysis: Visualizing the Role of
+6. Fredrickson, D. C. DFT-Chemical Pressure Analysis: Visualizing the Role of
 Atomic Size in Shaping the Structures of Inorganic Materials. *J. Am. Chem. 
 Soc.* **2012**, *134* (13), 5991–5999. https://doi.org/10.1021/ja300685j.
